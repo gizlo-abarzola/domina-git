@@ -1,0 +1,1 @@
+/* Script de creacion de la base de datos */
